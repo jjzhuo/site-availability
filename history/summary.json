@@ -4,10 +4,10 @@
     "url": "https://kindle-gpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/kindle-gpt.com.ico",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1443,
@@ -16,6 +16,7 @@
     "timeMonth": 1928,
     "timeYear": 1443,
     "dailyMinutesDown": {
+      "2024-01-27": 3,
       "2024-01-02": 21
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://kindle-gpt.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/kindle-gpt.com.ico",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 75,
     "timeDay": 31,
@@ -36,6 +37,7 @@
     "timeMonth": 77,
     "timeYear": 75,
     "dailyMinutesDown": {
+      "2024-01-27": 2,
       "2024-01-02": 19
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://kindle-gpt.com/signup",
     "icon": "https://icons.duckduckgo.com/ip3/kindle-gpt.com.ico",
     "slug": "signup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -56,6 +58,7 @@
     "timeMonth": 499,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2024-01-27": 0,
       "2024-01-02": 18
     }
   }
